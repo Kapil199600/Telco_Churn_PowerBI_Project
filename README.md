@@ -51,7 +51,13 @@ The **Telco Churn Dashboard** provides key insights into customer churn behavior
 ---
 
 ## 📸 Screenshots
-![Telco Churn Dashboard](./Telco%20Churn%20PowerBI%20Dashboard.png)  
+
+### 📍 Page 1 – Overall Churn Insights
+![Telco Churn Dashboard – Page 1](./Telco%20Churn%20PowerBI%20Dashboard.png)
+
+### 📍 Page 2 – Customer-Level Drilldown
+![Telco Churn Dashboard – Page 2](./Telco%20Churn%20PowerBI%20Dashboard%20Second%20page.png)
+
 
 ---
 
